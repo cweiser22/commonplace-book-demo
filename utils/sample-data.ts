@@ -1,5 +1,3 @@
-const fs = require("fs");
-
 const entryOne = `
 # Excerpt from *Between the World and Me* by Ta-Nehisi Coates, Page 14
 

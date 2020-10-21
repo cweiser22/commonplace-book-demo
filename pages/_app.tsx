@@ -1,13 +1,10 @@
 import React from "react";
 import type { AppProps /*, AppContext */ } from "next/app";
-import { AuthProvider } from "../context/auth-context";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <React.Fragment>
-      <AuthProvider>
-        <Component {...pageProps} />
-      </AuthProvider>
+      <Component {...pageProps} />
     </React.Fragment>
   );
 }

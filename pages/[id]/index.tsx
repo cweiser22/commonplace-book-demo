@@ -9,8 +9,7 @@ import {
 } from "@material-ui/core";
 import { GetStaticProps } from "next";
 import React from "react";
-import { demoEntries } from "../../../utils/sample-data";
-import showdown from "showdown";
+import { demoEntries } from "../../utils/sample-data";
 import ReactMarkdown from "react-markdown";
 
 const ShowEntry: React.FC<{ recentEntries: any[]; entry: any }> = ({
