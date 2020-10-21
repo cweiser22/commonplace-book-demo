@@ -1,0 +1,38 @@
+{
+  "name": "with-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@types/jsonwebtoken": "^8.5.0",
+    "@types/mongoose": "^5.7.36",
+    "@types/showdown": "^1.9.3",
+    "@types/yup": "^0.29.8",
+    "argon2": "^0.27.0",
+    "formik": "^2.2.0",
+    "formik-material-ui": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.9",
+    "next": "latest",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-markdown": "^5.0.0",
+    "sass": "^1.27.0",
+    "scss": "^0.2.4",
+    "showdown": "^1.9.1",
+    "yup": "^0.29.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.21",
+    "@types/react": "^16.9.16",
+    "@types/react-dom": "^16.9.4",
+    "typescript": "4.0"
+  },
+  "license": "MIT"
+}
