@@ -48,6 +48,7 @@ export async function getStaticPaths() {
     paths: [
       { params: { id: "1" } }, // See the "paths" section below
       { params: { id: "2" } },
+      { params: { id: "3" } },
     ],
     fallback: false, // See the "fallback" section below
   };
