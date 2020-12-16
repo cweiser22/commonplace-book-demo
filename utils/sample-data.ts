@@ -53,6 +53,51 @@ Chu explains similar feelings of exclusion. Early radical femenist movements wer
 
 `;
 
+const entryFour = `
+# The Intimacy of a Letter, An Analysis of the Medium of James Baldwin's _My Dungeon Shook_
+
+> I have begun this letter five times and torn it up five times. I keep seeing your face, which is also the face of your father and my brother. I have known both of you all your lives and have carried your daddy in my arms and on my shoulders, kissed him and spanked him and watched him learn to walk. I don't know if you have known anybody from that far back, if you have loved anybody that long, first as an infant, then as a child, then as a man. You gain a strange perspective on time and human pain and effort.
+
+The most stunning thing about My Dungeon Shook is that after the first sentence, you completely forget you are reading a published, rhetorical piece. Immediately, the article tosses out the possibility of coming across as an edited, polished opinion piece or essay, and instead feels almost voyeuristic, like the reader is butting into a slice of Baldwin’s personal life.
+One of the most challenging aspects in any form of writing is evoking authenticity and genuinity. Readers have an acute sense for detecting phoniness, a sense which is amplified when consuming texts of such divisive topics such as race relations. Balwin, however, completely evades any semblance of fakeness with his intimate letter format. An article addressed to the general public comes with the implication that the author does not know the personal reader, and is reaching out to them as a sort of an opinion salesman, someone whose only main goal is to sway beliefs with little concern for the individuality of the reader. But rather than speaking as a pundit, Baldwin takes on the persona of the reader’s Uncle, along with the authenticity and emotion that comes with familial relationships. The tone is not only intimate, but disarming. No attempt to argue with the reader or put down any group of people is made. It is simply a passionate letter to a family member.
+Perhaps the most emotionally disarming aspect of this letter is Balwin’s urging of his nephew not to harbor any hate towards the white oppressors, and instead attempt to empathize and show compassion towards those who hate him. Overall, this letter has an air of personal warmth that could not be acquired with any other format.
+
+`;
+
+const entryFive = `# Glorida Anzaldua: Language as a Part of One's Identity
+
+> Chicano Spanish sprang out of the Chicanos' need to identify ourselves as a distinct people. We needed a language with which we could communicate with ourselves, a secret language. For some of us, language is a homeland closer than the Southwestfor many Chicanos today live in the Midwest and the East.
+
+## Language As An Absolute
+
+As school children, most of us learn about language and grammar in terms of absolute truths, standards from which any deviation was “wrong”. It’s “am not” as opposed to “ain’t”, it’s “grey” not “gray”, that letter is silent, that letter is not silent, you need this here and that over there. Language was not art, not a form of expression or an exercise of individuality, it was more like math, where there was correct and there was incorrect, proper and improper.
+
+## How Speech Conveys Identity
+
+Anzaldua argues that language is not simply a set of standards and absolutes, but a crucial aspect of one’s expression. She opens the text with a jarring, almost violent narrative of a dentist becoming angry as a patient’s tongue interferes with an operation, asserting that something must be done about this tongue’s rebellious nature. The symbolism of this passage implies that stripping someone of their freedom of expression is a form of violence. This opening is intended to make the reader uncomfortable by using an angry dentist to convey the narrative, as many readers may have had terrifying experiences with dentists as a kid. The intensity of the imagery further conveys a horror-movie-like atmosphere.
+
+She follows with an account of childhood experiences in which she was disciplined in school and at home for speaking with a Chicano accent. She was forced to attend a special speech class, the sole purpose of which was to make her accent more Anglo-American. To Anzaldua, language represents an attachment to nationality, a form of connection to her heritage that nobody had the right to take away. As she reflects on these experiences, she points out the inhumanity of censoring an accent, and further divulges the value of language to Chicanos who live in the United States. Overall, the reader begins to question their previous understanding of the concept of language, and how the idea of a “correct” language is arbitrary and wrong.
+`;
+
+const entrySix = `# Momo Pixel's _Hair Nah_: My In-Game Thoughts And Reflection
+
+## A Few Thoughts That Came Into My Head While Playing
+
+- Cool art
+- Let's go
+- This isn't so hard
+- Oops let one slip
+- Ah shoot a lot just slipped
+- Why is my trackpad so sloppy
+- Okay level two is a bit intense
+- This is HARD!!!
+- WHY DO YOU KEEP ASKING PERMISSION IF YOU’RE GONNA TOUCH IT ANYWAY
+
+## _Hair Nah_ Wants You To Feel Frustrated, Tired and Creeped Out
+
+Momo Pixel’s Hair Nah is an interesting experience. Your avatar is a black woman with natural hair, and your goal is to travel while still protecting your personal space. A barrage of hands leaps toward your hair, which you must deflect before the time runs out. The controls feel a bit awkward, which is an aspect of the game that feels intentional. The type of high precision, fast mouse movements were incredibly difficult on my laptop trackpad, which was a constant source of frustration throughout the game, an emotion I think Momo Pixel wants me to feel. Women of color have to feel this pressure at all times, and experiencing it for a few minutes is an eye opener. The voice effects added throughout the game play do a good job of making me feel creeped out. A steady flow of “Can I touch your hair?”, “Is it attached to your head?” and other short phrases soon become tiresome and repetitive. This game brought the discomfort to life in a way that is simply amazing.
+`;
+
 export const demoEntries = [
   {
     id: 1,
@@ -68,5 +113,20 @@ export const demoEntries = [
     id: 3,
     name: "Commonplace Book - Entry Three",
     body: entryThree,
+  },
+  {
+    id: 4,
+    name: "Commonplace Book - Entry Four",
+    body: entryFour,
+  },
+  {
+    id: 5,
+    name: "Commonplace Book - Entry Five",
+    body: entryFive,
+  },
+  {
+    id: 6,
+    name: "Commonplace Book - Entry Six",
+    body: entrySix,
   },
 ];
