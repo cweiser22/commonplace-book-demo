@@ -98,6 +98,15 @@ const entrySix = `# Momo Pixel's _Hair Nah_: My In-Game Thoughts And Reflection
 Momo Pixel’s Hair Nah is an interesting experience. Your avatar is a black woman with natural hair, and your goal is to travel while still protecting your personal space. A barrage of hands leaps toward your hair, which you must deflect before the time runs out. The controls feel a bit awkward, which is an aspect of the game that feels intentional. The type of high precision, fast mouse movements were incredibly difficult on my laptop trackpad, which was a constant source of frustration throughout the game, an emotion I think Momo Pixel wants me to feel. Women of color have to feel this pressure at all times, and experiencing it for a few minutes is an eye opener. The voice effects added throughout the game play do a good job of making me feel creeped out. A steady flow of “Can I touch your hair?”, “Is it attached to your head?” and other short phrases soon become tiresome and repetitive. This game brought the discomfort to life in a way that is simply amazing.
 `;
 
+const entrySeven = `# Comparing Taming a Wild Tongue and Mother Tongue
+
+These two texts analyze the concept of language, and the discrepancy between their idea of language and what society deems correct. An idea central to both texts is that there is no true “correct” way to speak, and the existence of “proper” English is just a social construct. They describe examples of being belittled as a result their accents or linguistic differences, as well explain the importance of language in maintaining their cultural identity. Tan even subtly nods to her affection for her mother’s accent by describing it as “impeccable broken English”.
+
+_Taming a Wild Tongue_ is stylistically a more intense work. It draws on rather gruesome imagery, and describes accounts of much more violent childhood memories, which included being hit for speaking with an accent. Mother Tongue uses more mundane examples, with Tan describing how her mom had her speak on the phone to sound more professional or how a language barrier affected her performance academically. Anzaldua describes how she was forced to take a class in school which had the sole purpose of destroying her accent. Tan, on the other hand, describes being academically marginalized, stating that her accent gave teachers the false impression that English isn't her “strong suit”, and is instead deemed a “math kid”. However, through her own exploration of passion, she learned that she indeed had a talent for writing.
+
+Overall, both are interesting pieces documenting the struggle of immigrants to maintain their national identities. The perspectives elucidated in each article have been valuable to helping me think of language in an entirely different way.
+`;
+
 export const demoEntries = [
   {
     id: 1,
@@ -128,5 +137,14 @@ export const demoEntries = [
     id: 6,
     name: "Commonplace Book - Entry Six",
     body: entrySix,
+  },
+  {
+    id: 7,
+    name: "Commonplace Book - Entry Seven",
+    body: entrySeven,
+  },
+  {
+    id: 8,
+    name: "Commonplace Book - Entry Eight",
   },
 ];
