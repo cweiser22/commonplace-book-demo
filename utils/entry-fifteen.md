@@ -1,0 +1,9 @@
+# Civil Rights Inside and Out
+
+> However, before the man could back away, the corrections officer grabbed him and threw him to the floor. In seconds other guards had him surrounded. They pinned and handcuffed his hands behind his back while his aggressor had a knee pressed into his neck. My fellow prisoner begged them to stop because he couldn’t breathe, only to be told to “shut the fuck up.”
+
+The killing of George Floyd a few months ago was definitely a huge deal for everyone. Amidst a global pandemic and a cutthroat election, America found itself in a huge movement for civil rights and police reform. The video shocked everyone: Floyd was held to the ground and murdered in broad daylight, with three officers passively allowing it. This shocking encounter was followed by brutal suppression of civil rights protests by the police and a Department of Homeland Security occupation in Portland. The public could no longer deny the problems with the institution of policing.
+
+However, people have generally looked the other way when it came to abuse of authority in prisons. Human rights concerns in American prisons have been known for decades, and Moore’s article All Of Us Inside Have Cried Out analyzes what life is like while living under constant threat of arbitrary violence.
+
+Moore recounted a story that was very similar to Floyd’s. On an unclear, minor provocation, an inmate was violently thrown to the ground by a correctional officer and held against the neck. The act was witnessed by around 100 staff and inmates, with no recourse for the guard whatsoever. It makes me think about the fact that once somebody is incarcerated, they’re human rights are considered invalid and no concern is given to abuses of power within prison walls. We need to stop the awful dehumanization of prisoners and start holding correctional officers accountable.

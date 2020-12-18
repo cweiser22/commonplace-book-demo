@@ -107,6 +107,90 @@ _Taming a Wild Tongue_ is stylistically a more intense work. It draws on rather 
 Overall, both are interesting pieces documenting the struggle of immigrants to maintain their national identities. The perspectives elucidated in each article have been valuable to helping me think of language in an entirely different way.
 `;
 
+const entryEight = `# The Shallowness of Blaming Immigrant Parents
+
+The impossible choice my father had to make was an interesting piece that voiced the perspective of an immigrant child who illegally immigrated to the United States with her parents. The article was a response to comments made by First Lady Melania Trump, who claimed that parents of undocumented immigrants were ultimately responible for the hardships faced in immigration detention and family separation. The Trump administration’s family separation policy received intense criticism for violating the rights of immigrants and causing severe emotional distress. Blaming the parents of undocumented immigrants for this hardship is a way for the Trump administration to deny responsibility for actions commited ultimately by the federal government.
+
+Reyna Grande, an immigrant author who faced the hardships of illegal immigration, took insult from this perspective. Grande revisits her memories as a child in Mexico, when her parents had immigrated without her to the United States to work as a result of economic devastation in Mexico. When she finally sees her father again at age 10, she begs him to take her with him across the border. She knew the trip was dangerous, but to her, it was worth it. She chose to take the risk, a decision she would never want to go back on.
+
+Stories like those of Reyna Grande reveal the shallowness of viewpoints such as the First Lady’s. We must not condemn the parents of immigrants who were forced to make the impossible choice of leaving their children behind, or risking their safety to provide them a better future in the United States. I understand now why Grande feels that the response of the Trump administration is callous, and completely detached from reality.
+`;
+
+const entryNine = `# Reflecting on My Summer Writing
+
+> This is a stark contrast to most of my literature assignments in high school. Most of my teachers emphasized simply two things: memorizing the material and interpreting the author’s point of view. A question on an assignment would often look like “What caused Achilles to desert the Greek army in this chapter?” or “What is Shakespeare mainly analyzing in Hamlet’s soliloquy?”.
+
+Now that some time has passed since this course has begun, I felt like revisiting some of my earlier writings, so I’m using the next few entries to review a few old works from this class. The first assignment I did for this class was a free write about how I hope to change the way in which I engaged with text. After reading How to Mark A Book, I expressed excitement with the idea of metaphorically engaging in conversation with the author rather than a passive absorption of ideas. I definitely read far more provocative texts in this class than in high school, and it was nice to really break down a short yet insightful article.
+
+I think the best example of a “close-read” I can recall was my reading of Chu’s _On Liking Women_, a text that analyzes the author’s trangender identity in relation to feminism. The text was initially confusing, an opinion I was not alone in. My breakout room was a bit shaky when discussing the article in class, prompting me to revisit it with a bit more depth. I started to really get into Chu’s head, and absorbed her meaning in the idea of “eating the cake and being it too”. The freedom to interpret in this class definitely helped me get more personal with text, absorbing it not for the grade but for myself.
+`;
+
+const entryTen = `# Looking Back on My First Entry
+
+> An important aspect of my analysis is that it helped understand the black experience from the inside perspective rather than outside. I felt a much stronger understanding of African-American culture after breaking down this passage, which made me realize how much of black culture is the result of having to cope with constant fear and degradation.
+
+My first Commonplace Book entry was a reflection on Chapter 1 of _Between the World and Me_ by Ta-Nehisi Coates. I chose to analyze a passage in Coates’s book that really spoke to me about how a lot of black culture was simply a coping mechanism to deal with the constant fear and degradation of being black in America. This passage opened me up to the idea of using reading as a way to vicariously experience another person’s life, a way to connect not just with the facts of their life but with the feelings, sights, smells and thoughts. After reading the book, I think that it indeed one of Coates’s main intentions was to elicit such responses, to create a sense of intense personal empathy.
+
+I noticed that this concept wasn’t unique to Between the World and Me either. Chu and Grande both used first-person narratives to shape empathy and understanding, to really put the reader in the story rather than just tell it. Grande’s vivid description of the feelings that rushed through her young mind when her father returned only to tell her that she would again have to stay behind was authentic and intense. Chu’s casual descriptions of the “gay” experiences she had on the cheerleading bus in high school and the first time she laid eyes on a “hip” femenist in college also did a great job of framing her analysis of radical feminism. Overall, I’m glad I learned how to use text as a vessel in which to experience the lives of others.
+`;
+
+const entryEleven = `# Taking Another Look At My Second Entry: Inclusivity Should Not Otherize
+
+> The majority of popular superheroes are white males, which subconsciously breeds the association between whiteness, masculinity, and bravery. Black women are extremely underrepresented in this genre, so it grabs the reader’s attention to see a black, female superhero figure.
+
+In my second commonplace book entry, I broke down the relationship between representation in the superhero genre and race. I took notice of the fact that traditionally, superheroes have always been stereotypically masculine, white men. I made a comment about how the use depicting a woman as a superhero challenges the social expectation that women should not be powerful or stand up to authority.
+
+I feel like I should have delved deeper into the effects of representation in the superhero genre in terms of gender. I’m not exactly super knowledgeable about superhero movies, but am in a social circle that is quite into them. A common complaint I heard around school was that diversity in superhero films felt forced. I recall a friend of mine complaining that every female superhero movie was entirely consumed with themes of female empowerment and overcoming patriarchy. She was a starch feminist, so her viewpoint may at first sound confusing, but she actually made a valid point: if a superhero is a woman, they constantly call attention to the fact that it is a woman and that this is something unusual, rather than simply that the superhero just is a woman?
+
+She felt that constant references to the gender of a superhero reinforced the idea that female power was something abnormal, and made an interesting point: in every superhero movie about a male superhero, they don’t constantly mention their gender. The passive suggestion is that a male superhero is something typical, and that a female superhero is an oddity.
+
+I’m not sure if I fully agree with her viewpoint, but it definitely raises a valid point: why can’t we just have a superhero that is a woman, rather than a woman superhero? Depicting female authority as equally as normal as male authority may help better shape society’s views of gender. I do fear that some may interpret this viewpoint as criticizing the increased representation in the genre. However, she was thrilled about the changes in representation, and her criticism was mainly driven out of fear making powerful women a token in the genre rather than an integral part.
+`;
+
+const entryTwelve = `# Black Erasure and Racial Discrimination in Technology
+
+Like most kids from Gen-Z, video games were a huge part of my childhood. When I read Narcisse’s _The Natural_, it mentioned some of my favorite childhood video games, such as the Assassin’s Creed franchise and The Last of Us. These games incorporated black characters, but as Narcisse made mention of, their natural hair was drawn almost lazily.
+
+Back when I was into PC gaming, the rendering of real-life accurate hair was generally considered a difficult technological task, and hardware companies made a point to market technologies such as HairFX that made hair as silky smooth and lifelike as possible. The problem with this hair-rendering craze was that it completely excluded natural hairstyles, focusing largely on straight or wavy hair. It’s saddening to finally pick up on the fact that many of my childhood favorites indirectly committed black erasure.
+
+Furthermore, this shows that black erasure isn’t just an issue of the content of video games, but is built into the medium. It’s important that as society develops technologically that we avoid embedding our biases into new innovations. One can draw a connection between the rendering of hairstyles in video games and other forms of technological racial biases. For example, if one Googles “professional hairstyle”, one will come across images of largely white models with straight hair, while if one Googles “unprofessional hairstyle”, the results are mostly black models with natural hair. I do not take these concerns lightly as a Computer Science major, especially in a time where society is becoming more and more dependent on digital algorithms.
+`;
+
+const entryThirteen = `# A Summary of the Concept of Multivocality
+
+Multivocality is a new concept that I’ve been learning about in Kresge. The article Voice/multivocality by Patrice Buzzanell contained a somewhat academic explanation of the phenomenon. I enjoyed how Buzzanell first revisits the concept of voice, remarking how it is used to express both truth and the distortion thereof. Many abstract concepts such as legitimacy, consent, presence, and empowerment are represented through voices, and as such, understanding vocality is crucial to representation.
+
+The complexity of voices comes largely from the fact that they are never singular. Multiple voices can combine, dissent, suppress or otherwise alter an idea in many ways. It is key to remember that for most opinions and consensuses of a group that that conviction is an umbrella over many diverse interpretations of the world and that no association of people is ever truly a monolith.
+
+Furthermore, any truly open discussion space invites diversity of viewpoints. It is not uncommon that one voice can drown out another, and one interpretation can be implicitly accepted as fact when dissenting views are not entertained or included.
+`;
+
+const entryFourteen = `# SweetXHeart
+
+When I played _SweetXHeart_, one of the first things I took notice of was the familiar surroundings. I spent a lot of time in the Connecticut-New York Area, and a lot of the exact places and train routes were the exact same as ones I myself had been to. I related to my avatar’s creativity and passion for technology, and I myself even had a job similar to hers. My similarities to the avatar helped me put myself in her shoes a bit easier.
+
+I got unsettled during the part where a random stranger makes comments. I’ve seen incidents like that happen before, and I definitely can say they are not pleasant. The mild overtones of distress and tiredness during rather typical, sometimes even fun days was very effective in communicating the effects of these incidents. I’ve experienced being talked down to and called pet names as well and relate to the indignation that my character felt.
+
+Personally I’m a huge fan of this “slice of life” genre that allows us to think about concepts such as sexual harassment and racial discrimination in the context of an entire life rather than in the context of individual incidents. We all get to see the ways in which these encounters spill into other aspects of the character’s life, such as affecting her sleep or making her late for school.
+`;
+
+const entryFifteen = `# Civil Rights Inside and Out
+
+> However, before the man could back away, the corrections officer grabbed him and threw him to the floor. In seconds other guards had him surrounded. They pinned and handcuffed his hands behind his back while his aggressor had a knee pressed into his neck. My fellow prisoner begged them to stop because he couldn’t breathe, only to be told to “shut the fuck up.”
+
+The killing of George Floyd a few months ago was definitely a huge deal for everyone. Amidst a global pandemic and a cutthroat election, America found itself in a huge movement for civil rights and police reform. The video shocked everyone: Floyd was held to the ground and murdered in broad daylight, with three officers passively allowing it. This shocking encounter was followed by brutal suppression of civil rights protests by the police and a Department of Homeland Security occupation in Portland. The public could no longer deny the problems with the institution of policing.
+
+However, people have generally looked the other way when it came to abuse of authority in prisons. Human rights concerns in American prisons have been known for decades, and Moore’s article All Of Us Inside Have Cried Out analyzes what life is like while living under constant threat of arbitrary violence.
+
+Moore recounted a story that was very similar to Floyd’s. On an unclear, minor provocation, an inmate was violently thrown to the ground by a correctional officer and held against the neck. The act was witnessed by around 100 staff and inmates, with no recourse for the guard whatsoever. It makes me think about the fact that once somebody is incarcerated, they’re human rights are considered invalid and no concern is given to abuses of power within prison walls. We need to stop the awful dehumanization of prisoners and start holding correctional officers accountable.
+`;
+
+const entrySixteen = `# Thoughts On A Few Finals
+
+With this course coming to an end, it was nice to see what my classmates had worked on. There were many great presentations, some of which were very soulful to me. I loved Alice Wang’s song about mental health, especially as someone who has been very close to mental health issues their whole lives and has a family that suffers from a few different disorders. I also have gotten the chance to work with Alice on my Module 3 project, and it was great to see someone I knew open up. I also enjoyed the presentation made on the fast fashion industry, which caused me to completely rethink the way I purchased clothes. I realized that when I got a cheap price on a garment, the unfortunate reality is that there is a likelihood that someone was exploited to make that price possible. Nowadays, I prefer to purchase clothing made in the United States for some assurance of fair labor conditions.
+
+The most elaborate and stunning project that I can recall was a video game made by two students that was intended to simulate the feeling of ADHD by having the user interact with a fidget cube and try to stay at a certain level of calmness. The effort displayed was amazing, and the concept was brilliant. I can also appreciate their work as a Computer Science student, as it was well drawn and performed well. Overall, I’m excited I’ve gotten to build a sense of community with my fellow Kresgians.
+`;
 export const demoEntries = [
   {
     id: 1,
@@ -146,5 +230,46 @@ export const demoEntries = [
   {
     id: 8,
     name: "Commonplace Book - Entry Eight",
+    body: entryEight,
+  },
+  {
+    id: 9,
+    name: "Commonplace Book - Entry Nine",
+    body: entryNine,
+  },
+  {
+    id: 10,
+    name: "Commonplace Book - Entry Ten",
+    body: entryTen,
+  },
+  {
+    id: 11,
+    name: "Commonplace Book - Entry Eleven",
+    body: entryEleven,
+  },
+  {
+    id: 12,
+    name: "Commonplace Book - Entry Twelve",
+    body: entryTwelve,
+  },
+  {
+    id: 13,
+    name: "Commonplace Book - Entry Thirteen",
+    body: entryThirteen,
+  },
+  {
+    id: 14,
+    name: "Commonplace Book - Entry Fourteen",
+    body: entryFourteen,
+  },
+  {
+    id: 15,
+    name: "Commonplace Book - Entry Fifteen",
+    body: entryFifteen,
+  },
+  {
+    id: 16,
+    name: "Commonplace Book - Entry Sixteen",
+    body: entrySixteen,
   },
 ];
